@@ -1,0 +1,52 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+/* Image */
+.image {
+    width: 1903px;
+    height: 800px;
+}
+
+/* Navigation Home Courses About Contact */
+.title a {
+    font-size: 30px;
+    color: white;
+}
+
+/* Nav BOOTCAMP */
+.name {
+    font-size: 40px;
+    color: white;
+}
+
+
+/* Know More Button */
+.btnkm:hover {
+    background-color: black;
+    font-size: 30px;
+}
+
+/* Description */
+.description {
+    font-size: 35px;
+}
+
+/* Description Header */
+.descheader  {
+    font-size: 40px;
+}
+
+.courses {
+    font-size: 50px;
+}
+
+/* More Button */
+.more:hover {
+    background-color: black;
+}
+
+/* Send Button */
+.send:hover {
+    background-color: #28a745;
+}
